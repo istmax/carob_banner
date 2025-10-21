@@ -1,3 +1,4 @@
+
 .banner {
   max-width: 1100px;
   width: 100%;
@@ -85,6 +86,7 @@
   .banner {
     gap: 10px;
     padding: 10px 0;
+    width: 90%;
   }
   .banner__title {
     font-size: 1.6rem;
